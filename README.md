@@ -1,4 +1,4 @@
-# react-adventure
+# React Adventure
 
 Basics to Advance Concepts of React
 
